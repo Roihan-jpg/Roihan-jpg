@@ -4,7 +4,7 @@
 <!--                   HEADER BANNER                    -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,10,20&amp;height=220&amp;section=header&amp;text=Roihan%20Faqih&amp;fontSize=72&amp;fontColor=EAE3DA&amp;fontAlignY=40&amp;desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Lumajang%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&amp;descSize=18&amp;descAlignY=62&amp;descColor=FF7F11&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,10,20&amp;height=220&amp;section=header&amp;text=Roihan%20Faqih&amp;fontSize=72&amp;fontColor=EAE3DA&amp;fontAlignY=40&amp;desc=Full-Stack%20and%20Mobile%20Developer%20%7C%20Lumajang%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&amp;descSize=18&amp;descAlignY=62&amp;descColor=FF7F11&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
