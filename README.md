@@ -4,11 +4,11 @@
 <!--                   HEADER BANNER                    -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=220&section=header&text=Roihan%20Faqih&fontSize=72&fontColor=EAE3DA&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Lumajang%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descSize=18&descAlignY=62&descColor=FF7F11&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,10,20&amp;height=220&amp;section=header&amp;text=Roihan%20Faqih&amp;fontSize=72&amp;fontColor=EAE3DA&amp;fontAlignY=40&amp;desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Lumajang%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&amp;descSize=18&amp;descAlignY=62&amp;descColor=FF7F11&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=FF7F11&background=0F101200&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Roihan+%F0%9F%91%8B;Frontend+%26+Mobile+Developer+%F0%9F%9A%80;Angular+%7C+Flutter+%7C+Spring+Boot;Turning+caffeine+into+clean+code+%E2%98%95;From+Lumajang%2C+Jawa+Timur+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=20&amp;pause=1200&amp;color=FF7F11&amp;background=0F101200&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hello+World%2C+I'm+Roihan+%F0%9F%91%8B;Frontend+%26+Mobile+Developer+%F0%9F%9A%80;Angular+%7C+Flutter+%7C+Spring+Boot;Turning+caffeine+into+clean+code+%E2%98%95;From+Lumajang%2C+Jawa+Timur+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,17 +41,17 @@ const roihanFaqih = {
   database    : ["MySQL"],
   currentFocus: "Building scalable web & mobile apps",
   funFact     : "I debug faster after the 3rd coffee ☕",
-  motto       : "More Cigarettes"
+  motto       : "Maybe you can ask everything 😄"
 };
 ```
 
 <br/>
 
 - 🏠 Working remotely from **Lumajang, Jawa Timur**
-- 🌱 Currently mastering **Angular** & **Typescript**
+- 🌱 Currently mastering **Flutter** & **Spring Boot**
 - 💡 Passionate about **clean UI/UX** and **readable code**
 - ⚡ I love turning **ideas into real applications**
-- 💬 Ask me about **Angular, Typescript, Flutter, Web Dev**
+- 💬 Ask me about **Angular, Java, Flutter, Web Dev**
 
 <br clear="right"/>
 
@@ -108,13 +108,13 @@ const roihanFaqih = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=roihan-jpg&show_icons=true&theme=dark&title_color=FF7F11&text_color=EAE3DA&bg_color=0F1012&icon_color=B85C38&border_color=2C2F33&hide_border=false&locale=en&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roihan-jpg&amp;show_icons=true&amp;theme=dark&amp;title_color=FF7F11&amp;text_color=EAE3DA&amp;bg_color=0F1012&amp;icon_color=B85C38&amp;border_color=2C2F33&amp;hide_border=false&amp;locale=en&amp;rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roihan-jpg&show_icons=true&theme=dark&title_color=FF7F11&text_color=EAE3DA&bg_color=0F1012&icon_color=B85C38&border_color=2C2F33&hide_border=false&locale=en&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roihan-jpg&amp;show_icons=true&amp;theme=dark&amp;title_color=FF7F11&amp;text_color=EAE3DA&amp;bg_color=0F1012&amp;icon_color=B85C38&amp;border_color=2C2F33&amp;hide_border=false&amp;locale=en&amp;layout=compact&amp;langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roihan-jpg&theme=dark&background=0F1012&border=2C2F33&stroke=2C2F33&ring=FF7F11&fire=B85C38&currStreakNum=EAE3DA&sideNums=EAE3DA&currStreakLabel=FF7F11&sideLabels=B85C38&dates=EAE3DA&hide_border=false" height="180" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roihan-jpg&amp;theme=dark&amp;background=0F1012&amp;border=2C2F33&amp;stroke=2C2F33&amp;ring=FF7F11&amp;fire=B85C38&amp;currStreakNum=EAE3DA&amp;sideNums=EAE3DA&amp;currStreakLabel=FF7F11&amp;sideLabels=B85C38&amp;dates=EAE3DA&amp;hide_border=false" height="180" alt="Streak Stats"/>
 
 </div>
 
@@ -128,7 +128,7 @@ const roihanFaqih = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=roihan-jpg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=roihan-jpg&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -142,7 +142,7 @@ const roihanFaqih = {
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roihan-jpg&bg_color=0F1012&color=FF7F11&line=B85C38&point=EAE3DA&area=true&area_color=B85C38&hide_border=false&border_color=2C2F33&title_color=FF7F11" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roihan-jpg&amp;bg_color=0F1012&amp;color=FF7F11&amp;line=B85C38&amp;point=EAE3DA&amp;area=true&amp;area_color=B85C38&amp;hide_border=false&amp;border_color=2C2F33&amp;title_color=FF7F11" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -179,7 +179,7 @@ const roihanFaqih = {
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@justrhnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justrhnn?igsh=MXNjcWN3a21rZWY1dQ==)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@nakoruru_ritsu-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/nakoruru](https://x.com/NakoruruR4877))
+[![Twitter/X](https://img.shields.io/badge/Twitter-@nakoruru__ritsu-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nakoruru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roihan_Faqih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF7F11?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
@@ -204,7 +204,7 @@ const roihanFaqih = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20&height=130&section=footer&fontColor=EAE3DA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,10,20&amp;height=130&amp;section=footer&amp;fontColor=EAE3DA" width="100%"/>
 
 <sub>
   ⚡ Crafted with passion by <a href="https://github.com/Roihan-jpg"><strong>Roihan Faqih</strong></a> · Lumajang, Jawa Timur 🇮🇩<br/>
