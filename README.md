@@ -41,17 +41,17 @@ const roihanFaqih = {
   database    : ["MySQL"],
   currentFocus: "Building scalable web & mobile apps",
   funFact     : "I debug faster after the 3rd coffee ☕",
-  motto       : "Maybe you can ask everything 😄"
+  motto       : "More Cigarettes"
 };
 ```
 
 <br/>
 
 - 🏠 Working remotely from **Lumajang, Jawa Timur**
-- 🌱 Currently mastering **Flutter** & **Spring Boot**
+- 🌱 Currently mastering **Angular** & **Typescript**
 - 💡 Passionate about **clean UI/UX** and **readable code**
 - ⚡ I love turning **ideas into real applications**
-- 💬 Ask me about **Angular, Java, Flutter, Web Dev**
+- 💬 Ask me about **Angular, Typescript, Flutter, Web Dev**
 
 <br clear="right"/>
 
@@ -179,7 +179,7 @@ const roihanFaqih = {
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@justrhnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justrhnn?igsh=MXNjcWN3a21rZWY1dQ==)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@nakoruru__ritsu-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nakoruru)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@nakoruru_ritsu-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/nakoruru](https://x.com/NakoruruR4877))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roihan_Faqih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF7F11?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
